@@ -1,19 +1,19 @@
 {
-	"app_name": "Your App Name",
-	"app_description": "Your App Description Here",
-	"app_identifier": "com.something.app",
+	"app_name": "My Okada RIde",
+	"app_description": "Safety ride and delivery app",
+	"app_identifier": "com.myokadaride.app",
 	"ios_app_version": "1.0.0",
 	"android_app_version": "100",
-	"firebaseProjectId": "XXXXXXXXXXXXXXX",
+	"firebaseProjectId": "my-okada-ride",
 	"googleApiKeys": {
-		"ios": "XXXXXXXXXXXXXXX",
-		"android": "XXXXXXXXXXXXXXX",
-		"web": "XXXXXXXXXXXXXXX",
-		"server": "XXXXXXXXXXXXXXX"
+		"ios": "AIzaSyAL5rjF9dp8B8dAdSt9Dk_HBVSGQ6qDoYw",
+		"android": "AIzaSyAL5rjF9dp8B8dAdSt9Dk_HBVSGQ6qDoYw",
+		"web": "AIzaSyAL5rjF9dp8B8dAdSt9Dk_HBVSGQ6qDoYw",
+		"server": "AIzaSyAL5rjF9dp8B8dAdSt9Dk_HBVSGQ6qDoYw"
 	},
-	"expo_owner": "XXXXXXXXXXXXXXX",
-	"expo_slug": "XXXXXXXXXXXXXXX",
-	"expo_project_id": "XXXXXXXXXXXXXXX",
-	"admin_email": "XXXXXXXXXXXXXXX",
+	"expo_owner": "olitech1010",
+	"expo_slug": "my-okada-ride",
+	"expo_project_id": "a992fc22-5cda-4350-bd5e-010ac08b71ee",
+	"admin_email": "olitech1010@gmail.com",
 	"purchase_code": "XXXXXXXXXXXXXXX"
 }
